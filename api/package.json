@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "graphql-tools": "^4.0.4"
+  },
+  "devDependencies": {
+    "graphql": "^14.2.1",
+    "graphql-tag": "^2.10.1"
+  }
+}
